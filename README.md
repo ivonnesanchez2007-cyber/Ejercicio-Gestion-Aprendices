@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Proyecto Gestión de Aprendices en Java
 
 ## Descripción del proyecto
