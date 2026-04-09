@@ -83,5 +83,5 @@ Este proyecto fue desarrollado con fines académicos para:
 ## Autor
 - Ivonne Dayana Sanchez Contreras
 - Aprendiz SENA
-- – Desarrollo de Software
-- - Ficha: 3311983
+- Desarrollo de Software
+- Ficha: 3311983
